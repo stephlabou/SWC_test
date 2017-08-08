@@ -7,4 +7,4 @@ This is a temporary script file.
 
 print(4+9)
 
-print(20-9)
+print("Don't tell ME what to math")
